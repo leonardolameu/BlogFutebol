@@ -12,7 +12,7 @@ header {
 
 .Nome {
 
-  margin-left: 280px;
+  margin-left: 260px;
   font-family: 'Roboto'; 
   font-size: 70px; 
   line-height: 85px;
@@ -35,7 +35,7 @@ header {
 
 
 
-.uniformes {
+.uniformes span{
     background-color: #006437;
     padding: 50px, 50px;
     color: #ffffff;
@@ -44,6 +44,10 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
+
+    font-family: 'Roboto';
+    font-size: 60px; 
+    line-height: 75px;
 }
 
 .uniforme1 {
@@ -82,7 +86,7 @@ header {
     padding: 0.5em;
   }
 
-.titulos {
+.titulos span{
     background-color: #006437;
     padding: 50px, 50px;
     color: #ffffff;
@@ -91,6 +95,10 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
+
+    font-family: 'Roboto'; 
+    font-size: 60px; 
+    line-height: 75px;
 }
 
 .liberta {

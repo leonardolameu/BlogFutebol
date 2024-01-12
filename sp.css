@@ -36,7 +36,7 @@ header {
 
 
 
-.uniformes {
+.uniformes span{
     background-color: #000000;
     padding: 50px, 50px;
     color: #ffffff;
@@ -45,6 +45,10 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
+
+    font-family: 'Roboto'; 
+    font-size: 60px; 
+    line-height: 75px;
 }
 
 
@@ -94,6 +98,10 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
+
+    font-family: 'Roboto'; 
+    font-size: 60px; l
+    line-height: 75px;
 }
 
 .liberta {
